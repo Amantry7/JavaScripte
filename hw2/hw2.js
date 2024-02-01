@@ -1,4 +1,3 @@
-
 const langueg = ['Русский', 'Анлгиский'];
 langueg[4] = 'Испаский';
 console.log(langueg);

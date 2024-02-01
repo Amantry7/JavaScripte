@@ -1,9 +1,9 @@
-// const name = 'Aman';
-// console.log(name);
-
-let name = 'Абдулох';
-name = 'Пупсик';
+const name = 'Aman';
 console.log(name);
+
+let name1 = 'Абдулох';
+name = 'Пупсик';
+console.log(name1);
 
 const im_lox = false;
 console.log(im_lox)
@@ -26,3 +26,6 @@ console.log(list);
 
 const ffff = null;
 console.log(ffff);
+
+
+
